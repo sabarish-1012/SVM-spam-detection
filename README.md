@@ -65,14 +65,7 @@ Hyperparameters should be tuned using training and validation data or cross-vali
 - Confusion matrix
 - False positive and false negative analysis
 
-## Results
 
-Add your actual test-set results here after running the notebook.
-
-| Model | Accuracy | Precision | Recall | F1-score |
-|---|---:|---:|---:|---:|
-| Linear SVM | Add result | Add result | Add result | Add result |
-| RBF Kernel SVM | Add result | Add result | Add result | Add result |
 
 Do not enter estimated or invented metrics. Report the values obtained from your final evaluation.
 
